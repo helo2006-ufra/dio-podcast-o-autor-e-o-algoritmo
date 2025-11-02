@@ -1,0 +1,11 @@
+🎯 Prompt 1 – Título (ChatGPT)
+"Crie um título criativo para um podcast sobre o impacto da tecnologia na literatura, com tom jovem e reflexivo."
+
+🎯 Prompt 2 – Capa (Bing Image Creator)
+"Capa para podcast ‘O Autor e o Algoritmo — A Nova Era da Inspiração Literária’. Mostre um escritor humano com caneta e uma mão robótica com teclado, fundo com livros, letras e circuitos. Estilo realista e futurista, iluminação suave, cores azul, roxo e branco, formato 1:1."
+
+🎯 Prompt 3 – Roteiro (ChatGPT)
+"Crie um roteiro de podcast de 5 minutos, tom jovem e informativo, sobre a influência da tecnologia na literatura atual, destacando pontos fortes, fracos, críticas e desafios."
+
+🎯 Prompt 4 – Geração de voz (Suno.IA)
+"Gerar voz feminina jovem, natural e inspiradora para narrar o texto do podcast ‘O Autor e o Algoritmo’, com ritmo leve e pausas naturais.
